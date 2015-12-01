@@ -99,3 +99,5 @@ blob.data
 
 repo.blob("4ebc8aea50e0a67e000ba29a30809d0a7b9b2666")
 # => #<Grit::Blob "4ebc8aea50e0a67e000ba29a30809d0a7b9b2666">
+
+´Ë´¦ÐÞ¸Ä£¿
